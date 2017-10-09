@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 Git tra()()()*)()*)*
 .
 add a new branch dev
+add a new branch feature1
